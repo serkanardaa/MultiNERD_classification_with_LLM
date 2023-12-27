@@ -23,4 +23,4 @@
 The whole project was implemented in Token Classification on MultiNERD.ipynb file. The required system packages and dependencies can be imported via requirements.txt file.
 In order to interact with the hugging face hub, a login might be needed.
 
-A brief summary of main findings and limitations can be read from Main findings and limitations.docx document.
+A brief summary of main findings and limitations can be read from Main findings and limitations.pdf document.
